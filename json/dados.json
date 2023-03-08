@@ -1,0 +1,74 @@
+[
+    {
+        "NOME_DE_PAlCO" : "RM",
+        "NOME_COMPLETO" : "Kim Namjoon (김남준)",
+        "DATA_NASCIMENTO" : "12/09/1994",
+        "SIGNO" : "Virgem",
+        "LOCAL_NASCIMENTO" : "Ilsan, Gyeonggi-do, Coréia do Sul",
+        "IMAGEM" : "./img/member-rm.jpg"
+
+    },
+
+    {
+        "NOME_DE_PAlCO" : "Jin",
+        "NOME_COMPLETO" : "Kim Seokjin (김석진)",
+        "DATA_NASCIMENTO" : "04/12/1992",
+        "SIGNO" : "Sagitário",
+        "LOCAL_NASCIMENTO" : " Anyang, Gyeonggi, Coréia do Sul",
+        "IMAGEM" : "./img/member-jin.jpg"
+
+    },
+
+    {
+        "NOME_DE_PAlCO" : "Suga",
+        "NOME_COMPLETO" : "Min Yoongi (민윤기)",
+        "DATA_NASCIMENTO" : "09/03/1993",
+        "SIGNO" : "Peixes",
+        "LOCAL_NASCIMENTO" : "Buk-gu, Daegu, Coréia do Sul",
+        "IMAGEM" : "./img/member-suga.jpg"
+
+    },
+
+    {
+        "NOME_DE_PAlCO" : "J-Hope",
+        "NOME_COMPLETO" : "Jung Hoseok (정호석)",
+        "DATA_NASCIMENTO" : "18/02/1994",
+        "SIGNO" : "Aquário",
+        "LOCAL_NASCIMENTO" : "Gwangju (Kwangju), Coréia do Sul",
+        "IMAGEM" : "./img/member-jhope.jpg"
+
+    },
+
+    {
+        "NOME_DE_PAlCO" : "Jimin",
+        "NOME_COMPLETO" : "Park Jimin (박지민)",
+        "DATA_NASCIMENTO" : "13/10/1995",
+        "SIGNO" : "Libra",
+        "LOCAL_NASCIMENTO" : " Busan, Coréia do Sul",
+        "IMAGEM" : "./img/member-jimin.jpg"
+
+    },
+
+    {
+        "NOME_DE_PAlCO" : "V",
+        "NOME_COMPLETO" : "Kim Taehyung (김태형)",
+        "DATA_NASCIMENTO" : "30/12/1995",
+        "SIGNO" : "Capricórnio",
+        "LOCAL_NASCIMENTO" : " Geochang, Coréia do Sul",
+        "IMAGEM" : "./img/member-v.jpg"
+
+    },
+
+    {
+        "NOME_DE_PAlCO" : "Jungkook",
+        "NOME_COMPLETO" : "Jeon Jungkook (전정국)",
+        "DATA_NASCIMENTO" : "01/09/1997",
+        "SIGNO" : "Virgem",
+        "LOCAL_NASCIMENTO" : " Busan, Coréia do Sul",
+        "IMAGEM" : "./img/member-jk.jpg"
+
+    }
+
+
+]
+
